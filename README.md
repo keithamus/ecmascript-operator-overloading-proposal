@@ -26,7 +26,7 @@ The proposed supported operators are:
  - [BitWise Unsigned Right Shift](https://www.ecma-international.org/ecma-262/7.0/#sec-unsigned-right-shift-operator): `>>>` (`Symbol.operator('>>>')`)
  - [BitWise AND](https://www.ecma-international.org/ecma-262/7.0/#sec-binary-bitwise-operators-runtime-semantics-evaluation): `&` (`Symbol.unaryOperator('&')`)
  - [BitWise OR](https://www.ecma-international.org/ecma-262/7.0/#sec-binary-bitwise-operators-runtime-semantics-evaluation): `|` (`Symbol.unaryOperator('|')`)
- - [BitWise XOR](https://www.ecma-international.org/ecma-262/7.0/#sec-binary-bitwise-operators-runtime-semantics-evaluation): `~` (`Symbol.unaryOperator('^')`)
+ - [BitWise XOR](https://www.ecma-international.org/ecma-262/7.0/#sec-binary-bitwise-operators-runtime-semantics-evaluation): `^` (`Symbol.unaryOperator('^')`)
  - [BitWise NOT](https://www.ecma-international.org/ecma-262/7.0/#sec-bitwise-not-operator): `~` (`Symbol.unaryOperator('~')`)
  
  - [Prefix/Postfix Unary Increment](https://www.ecma-international.org/ecma-262/7.0/#sec-prefix-increment-operator): `++` (`Symbol.unaryOperator('++')`)
